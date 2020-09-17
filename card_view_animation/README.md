@@ -1,6 +1,6 @@
 # card_view_animation
 
-A new Flutter project.
+This is a Banking Card view.
 
 ## Getting Started
 
